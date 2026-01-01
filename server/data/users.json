@@ -1,0 +1,93 @@
+[
+  {
+    "_id": "1766933116629",
+    "createdAt": "2025-12-28T14:45:16.629Z",
+    "updatedAt": "2025-12-28T14:45:16.630Z",
+    "fullName": "Test User",
+    "email": "test.user1766933116409@example.com",
+    "password": "$2b$10$IeOhFy6qHJzRlfQ.8HKw0.5mGYTbSEig0GPVi3WxEZ3IYr5JhHwpG",
+    "gender": "Male",
+    "dateOfBirth": "1990-01-01",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1766947796959",
+    "createdAt": "2025-12-28T18:49:56.959Z",
+    "updatedAt": "2025-12-28T18:49:56.959Z",
+    "fullName": "tilak",
+    "email": "tilakmishra.76@gmail.com",
+    "password": "$2b$10$El/v8L0WVxu8cRjnGTY9a.LkPcJBDyL7qtEvI26WIfXFjKjQWwrgq",
+    "gender": "Male",
+    "dateOfBirth": "2025-12-24",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1766947882490",
+    "createdAt": "2025-12-28T18:51:22.490Z",
+    "updatedAt": "2025-12-28T18:51:22.490Z",
+    "fullName": "tilak",
+    "email": "sambhumishra.76@gmail.com",
+    "password": "$2b$10$7gNCWWxE.ff.09f1YZjri.9xn96mjkCMCubNHjVn27J5OHsSpG0em",
+    "gender": "Male",
+    "dateOfBirth": "2025-12-04",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1766948294682",
+    "createdAt": "2025-12-28T18:58:14.682Z",
+    "updatedAt": "2025-12-28T18:58:14.682Z",
+    "fullName": "Login Test User",
+    "email": "TestCase1766948294491@example.com",
+    "password": "$2b$10$vlx/F3L6oEys0ZG3HxBMoeYElc8tkZYWgmDZ/O6MIwAQKnoVKKiOe",
+    "gender": "Male",
+    "dateOfBirth": "1995-05-05",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1766948477722",
+    "createdAt": "2025-12-28T19:01:17.722Z",
+    "updatedAt": "2025-12-28T19:01:17.722Z",
+    "fullName": "Login Test User",
+    "email": "testcase1766948477420@example.com",
+    "password": "$2b$10$48li7YOrNDBnIZIV3akYs.N11Ve1XyNRUOu9BVK2IY0DrNqH2cOli",
+    "gender": "Male",
+    "dateOfBirth": "1995-05-05",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1767063997401",
+    "createdAt": "2025-12-30T03:06:37.401Z",
+    "updatedAt": "2025-12-30T03:06:37.401Z",
+    "fullName": "Test User",
+    "email": "test.user1767063997242@example.com",
+    "password": "$2b$10$Mo1vXB43MLt6MY.QnOl6JOqCi82POE4ruOQudsNU/EMMEDsGFHZSa",
+    "gender": "Male",
+    "dateOfBirth": "1990-01-01",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  },
+  {
+    "_id": "1767065249186",
+    "createdAt": "2025-12-30T03:27:29.186Z",
+    "updatedAt": "2025-12-30T03:27:29.186Z",
+    "fullName": "Test Female",
+    "email": "test.female.1767065249032@example.com",
+    "password": "$2b$10$XyjXP0siBADie5U5rxrp8OtHgFfd5SyOquSCYB.21uKLUvP43h9Du",
+    "gender": "Female",
+    "dateOfBirth": "2000-01-01",
+    "photos": [],
+    "bio": "",
+    "preferences": {}
+  }
+]
